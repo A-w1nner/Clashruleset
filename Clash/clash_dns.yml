@@ -4,6 +4,8 @@ geox-url:
   mmdb: "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.metadb"
   asn: "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/GeoLite2-ASN.mmdb"
   
+unified-delay: true
+
 dns: 
     enable: true
     listen: 0.0.0.0:1053
