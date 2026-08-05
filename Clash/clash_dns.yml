@@ -24,7 +24,6 @@ dns:
   fake-ip-filter:
     - geosite:geolocation-cn
     - geosite:private
-    - geosite:fakeip-filter
   nameserver-policy: 
     geosite:cn:
       - https://dns.alidns.com/dns-query
